@@ -1,4 +1,4 @@
-# MKVSeriesExtractor Serie Extractor
+# MKV Serie Extractor
 
 ![GitHub release](https://img.shields.io/github/v/release/MikeDaSpike/MKVSeriesExtractor)
 ![License](https://img.shields.io/github/license/MikeDaSpike/MKVSeriesExtractor)
