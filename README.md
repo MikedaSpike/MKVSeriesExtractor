@@ -2,6 +2,10 @@
 
 ![GitHub release](https://img.shields.io/github/v/release/MikedaSpike/MKVSeriesExtractor)
 ![License](https://img.shields.io/github/license/MikedaSpike/MKVSeriesExtractor)
+![Downloads](https://img.shields.io/github/downloads/MikedaSpike/MKVSeriesExtractor/total)
+![Last Commit](https://img.shields.io/github/last-commit/MikedaSpike/MKVSeriesExtractor)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/MikedaSpike/MKVSeriesExtractor)
+![Stars](https://img.shields.io/github/stars/MikedaSpike/MKVSeriesExtractor)
 
 ## Overview
 
